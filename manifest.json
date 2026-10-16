@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Empurrar Agenda +30min",
+  "version": "1.0",
+  "description": "Empurra todos os eventos restantes do dia em 30 minutos.",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
